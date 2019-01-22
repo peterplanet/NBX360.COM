@@ -3,7 +3,7 @@
 力争全球物质财富&精神文明的Top 0.01%，并让世界更加美好；Be Top 0.01% & Better The World. ——NBX360.PRO
 
 # NBX360.COM联系方式
-1.官网：NBX360.COM
+1.官网：https://www.nbx360.pro/
 2.微信：newpeterplanet
-3.知识星球：NBX360.COM
+3.知识星球：NBX360.PRO
 4.Github：github.com/peterplanet

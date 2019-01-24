@@ -6,3 +6,4 @@
 2.微信：newpeterplanet
 3.知识星球：NBX360.PRO
 4.Github：https://github.com/peterplanet
+5.邮箱：INFO@NBX360.PRO
